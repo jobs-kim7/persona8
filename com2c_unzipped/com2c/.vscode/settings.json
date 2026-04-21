@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "211.47.74.49",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "com2c",
+            "database": "dbtokchek",
+            "username": "tokchek",
+            "password": "tree2977!!"
+        }
+    ]
+}
